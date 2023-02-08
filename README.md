@@ -1,1 +1,1 @@
-# nirdosh-django
+# django project
